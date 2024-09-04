@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.amn{
+    display: frex;
+    background-color: aqua;
+}
+.am{
+    color: forestgreen;
+}
+  nav ul{
+    display: flex;
+    margin:auto;
+    
+  }
+  nav li{
+    margin: auto;
+    list-style: none;
+    align-items: center;
+    padding: 0px 5px;
+  }
+  nav lihover{
+    margin-bottom: auto;
+  }
